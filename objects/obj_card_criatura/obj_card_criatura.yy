@@ -1,9 +1,11 @@
 {
   "$GMObject":"",
-  "%Name":"card_criatura",
-  "eventList":[],
+  "%Name":"obj_card_criatura",
+  "eventList":[
+    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+  ],
   "managed":true,
-  "name":"card_criatura",
+  "name":"obj_card_criatura",
   "overriddenProperties":[],
   "parent":{
     "name":"Trocar_Criatura",
