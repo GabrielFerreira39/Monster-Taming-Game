@@ -1,0 +1,1 @@
+trocar_criatura = false;

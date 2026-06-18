@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"Coletor",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"Coletor",
+  "parent":{
+    "name":"Scripts",
+    "path":"folders/Scripts.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

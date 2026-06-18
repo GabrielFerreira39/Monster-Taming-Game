@@ -1,0 +1,1 @@
+[{"gid":"g0","nome":"Terror","atk_base":0,"hp_base":0},{"gid":"g1","nome":"Romance","atk_base":0,"hp_base":0},{"gid":"g2","nome":"Comedia","atk_base":0,"hp_base":0},{"gid":"g3","nome":"Misterio","atk_base":0,"hp_base":0},{"gid":"g4","nome":"Acao","atk_base":0,"hp_base":0},{"gid":"g5","nome":"Fantasia","atk_base":0,"hp_base":0}]

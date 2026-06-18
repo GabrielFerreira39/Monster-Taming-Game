@@ -1,0 +1,63 @@
+[
+    {
+        "pid" : "p0",
+        "nome": "Valente",
+        "forte": "g0",
+        "fraco": "g4"
+    },
+    {
+        "pid" : "p1",
+        "nome": "Afetivo",
+        "forte": "g1",
+        "fraco": "g0"
+    },
+    {
+        "pid" : "p2",
+        "nome": "Vingativo",
+        "forte": "g0",
+        "fraco": "g1"
+    },
+    {
+        "pid" : "p3",
+        "nome": "Tolo",
+        "forte": "g2",
+        "fraco": "g3"
+    },
+    {
+        "pid" : "p4",
+        "nome": "Curioso",
+        "forte": "g3",
+        "fraco": "g2"
+    },
+    {
+        "pid" : "p5",
+        "nome": "Impulsivo",
+        "forte": "g4",
+        "fraco": "g3"
+    },
+    {
+        "pid" : "p6",
+        "nome": "Atento",
+        "forte": "g3",
+        "fraco": "g0"
+    },
+    {
+        "pid" : "p7",
+        "nome": "Brincalhao",
+        "forte": "g2",
+        "fraco": "g1"
+    },
+    {
+        "pid" : "p8",
+        "nome": "Honesto",
+        "forte": "g4",
+        "fraco": "g2"
+    },
+    {
+        "pid" : "p9",
+        "nome": "Fabuloso",
+        "forte": "g1",
+        "fraco": "g4"
+    }
+    
+]
