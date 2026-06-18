@@ -2,7 +2,7 @@
   "$GMProject":"v1",
   "%Name":"Monster-taming Game",
   "AudioGroups":[
-    {"$GMAudioGroup":"v1","%Name":"audiogroup_default","exportDir":"","name":"audiogroup_default","resourceType":"GMAudioGroup","resourceVersion":"2.0","targets":-1,},
+    {"$GMAudioGroup":"","%Name":"audiogroup_default","name":"audiogroup_default","resourceType":"GMAudioGroup","resourceVersion":"2.0","targets":-1,},
   ],
   "configs":{
     "children":[],
@@ -12,8 +12,8 @@
   "Folders":[
     {"$GMFolder":"","%Name":"Objects","folderPath":"folders/Objects.yy","name":"Objects","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"Battle","folderPath":"folders/Objects/Battle.yy","name":"Battle","resourceType":"GMFolder","resourceVersion":"2.0",},
-    {"$GMFolder":"","%Name":"Trocar_Criatura","folderPath":"folders/Objects/Battle/Trocar_Criatura.yy","name":"Trocar_Criatura","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"GUI","folderPath":"folders/Objects/Battle/GUI.yy","name":"GUI","resourceType":"GMFolder","resourceVersion":"2.0",},
+    {"$GMFolder":"","%Name":"Trocar_Criatura","folderPath":"folders/Objects/Battle/Trocar_Criatura.yy","name":"Trocar_Criatura","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"Data","folderPath":"folders/Objects/Data.yy","name":"Data","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"Dia","folderPath":"folders/Objects/Dia.yy","name":"Dia","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"NPCs","folderPath":"folders/Objects/NPCs.yy","name":"NPCs","resourceType":"GMFolder","resourceVersion":"2.0",},
