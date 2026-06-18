@@ -107,6 +107,7 @@
     {"id":{"name":"spr_ladraodepele","path":"sprites/spr_ladraodepele/spr_ladraodepele.yy",},},
     {"id":{"name":"spr_leaocovarde","path":"sprites/spr_leaocovarde/spr_leaocovarde.yy",},},
     {"id":{"name":"spr_lobomau","path":"sprites/spr_lobomau/spr_lobomau.yy",},},
+    {"id":{"name":"spr_long_gui","path":"sprites/spr_long_gui/spr_long_gui.yy",},},
     {"id":{"name":"spr_magicodeoz","path":"sprites/spr_magicodeoz/spr_magicodeoz.yy",},},
     {"id":{"name":"spr_menu","path":"sprites/spr_menu/spr_menu.yy",},},
     {"id":{"name":"spr_mobydick","path":"sprites/spr_mobydick/spr_mobydick.yy",},},

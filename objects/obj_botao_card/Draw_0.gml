@@ -1,0 +1,1 @@
+draw_sprite(spr_alice_def, image_index, 0, 0);
