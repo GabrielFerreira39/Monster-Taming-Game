@@ -2,7 +2,7 @@
   "$GMProject":"v1",
   "%Name":"Monster-taming Game",
   "AudioGroups":[
-    {"$GMAudioGroup":"","%Name":"audiogroup_default","name":"audiogroup_default","resourceType":"GMAudioGroup","resourceVersion":"2.0","targets":-1,},
+    {"$GMAudioGroup":"v1","%Name":"audiogroup_default","exportDir":"","name":"audiogroup_default","resourceType":"GMAudioGroup","resourceVersion":"2.0","targets":-1,},
   ],
   "configs":{
     "children":[],
@@ -108,6 +108,7 @@
     {"id":{"name":"spr_leaocovarde","path":"sprites/spr_leaocovarde/spr_leaocovarde.yy",},},
     {"id":{"name":"spr_lobomau","path":"sprites/spr_lobomau/spr_lobomau.yy",},},
     {"id":{"name":"spr_long_gui","path":"sprites/spr_long_gui/spr_long_gui.yy",},},
+    {"id":{"name":"spr_long_gui2","path":"sprites/spr_long_gui2/spr_long_gui2.yy",},},
     {"id":{"name":"spr_magicodeoz","path":"sprites/spr_magicodeoz/spr_magicodeoz.yy",},},
     {"id":{"name":"spr_menu","path":"sprites/spr_menu/spr_menu.yy",},},
     {"id":{"name":"spr_mobydick","path":"sprites/spr_mobydick/spr_mobydick.yy",},},

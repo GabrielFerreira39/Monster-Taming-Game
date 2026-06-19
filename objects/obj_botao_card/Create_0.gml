@@ -1,1 +1,0 @@
-//player = obj_card_criatura.criatura_atual

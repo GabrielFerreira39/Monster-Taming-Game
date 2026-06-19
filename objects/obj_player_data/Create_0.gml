@@ -1,5 +1,7 @@
 if (global.starting = true) {
     id_atual = 0;
+	id_atual2 = 5;
+	id_atual3 = 8;
 	
 	cid = Coletor_cid(id_atual)
 	nome = Coletor_nome(id_atual)
@@ -7,10 +9,10 @@ if (global.starting = true) {
 	personalidade = Coletor_personalidade(id_atual)
 	hp = Coletor_hp_base(id_atual)
 	atk = Coletor_atk_base(id_atual)
-	sprite = Coletor_sprite(id_atual)
+	sprite = Transformador_sprite(Coletor_sprite(id_atual))
 	
     var criatura1 = new Criatura(cid, nome, genero, personalidade, hp, atk, sprite);
-    
+
 	global.party = [criatura1, undefined, undefined];
     global.starting = false;
 }
