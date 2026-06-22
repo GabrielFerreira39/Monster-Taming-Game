@@ -23,3 +23,7 @@ if (battle && enemy.hp > 0 && criatura_atual.hp > 0) {
         turn_delay = game_get_speed(gamespeed_fps) * 2;
     }
 }
+
+if (enemy.hp <= 0 && criatura_atual.hp > 0) {
+	room_goto(rm_dia)
+}

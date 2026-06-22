@@ -1,7 +1,5 @@
 if (global.starting = true) {
     id_atual = 0;
-	id_atual2 = 5;
-	id_atual3 = 8;
 	
 	cid = Coletor_cid(id_atual)
 	nome = Coletor_nome(id_atual)
