@@ -33,6 +33,8 @@
     {"$GMIncludedFile":"","%Name":"criaturas_db.txt","CopyToMask":-1,"filePath":"datafiles","name":"criaturas_db.txt","resourceType":"GMIncludedFile","resourceVersion":"2.0",},
     {"$GMIncludedFile":"","%Name":"generos.json","CopyToMask":-1,"filePath":"datafiles","name":"generos.json","resourceType":"GMIncludedFile","resourceVersion":"2.0",},
     {"$GMIncludedFile":"","%Name":"generos.txt","CopyToMask":-1,"filePath":"datafiles","name":"generos.txt","resourceType":"GMIncludedFile","resourceVersion":"2.0",},
+    {"$GMIncludedFile":"","%Name":"itens.json","CopyToMask":-1,"filePath":"datafiles","name":"itens.json","resourceType":"GMIncludedFile","resourceVersion":"2.0",},
+    {"$GMIncludedFile":"","%Name":"itens.txt","CopyToMask":-1,"filePath":"datafiles","name":"itens.txt","resourceType":"GMIncludedFile","resourceVersion":"2.0",},
     {"$GMIncludedFile":"","%Name":"personalidades.json","CopyToMask":-1,"filePath":"datafiles","name":"personalidades.json","resourceType":"GMIncludedFile","resourceVersion":"2.0",},
     {"$GMIncludedFile":"","%Name":"personalidades.txt","CopyToMask":-1,"filePath":"datafiles","name":"personalidades.txt","resourceType":"GMIncludedFile","resourceVersion":"2.0",},
   ],
