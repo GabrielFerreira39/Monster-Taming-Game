@@ -14,8 +14,8 @@
   "frames":[
     {"$GMSpriteFrame":"v1","%Name":"52564741-dbc9-4973-b266-2fb7ecbe529a","name":"52564741-dbc9-4973-b266-2fb7ecbe529a","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
   ],
-  "gridX":7,
-  "gridY":15,
+  "gridX":5,
+  "gridY":5,
   "height":200,
   "HTile":false,
   "layers":[
@@ -24,7 +24,7 @@
   "name":"spr_gui",
   "nineSlice":{
     "$GMNineSliceData":"",
-    "bottom":40,
+    "bottom":0,
     "enabled":true,
     "guideColour":[4294902015,4294902015,4294902015,4294902015,],
     "highlightColour":1728023040,
@@ -40,7 +40,7 @@
       0,
       0,
     ],
-    "top":40,
+    "top":0,
   },
   "origin":4,
   "parent":{

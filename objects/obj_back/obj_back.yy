@@ -2,7 +2,7 @@
   "$GMObject":"",
   "%Name":"obj_back",
   "eventList":[
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":6,"isDnD":true,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":4,"eventType":6,"isDnD":true,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
   ],
   "managed":true,
   "name":"obj_back",
@@ -30,8 +30,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"arrow",
-    "path":"sprites/arrow/arrow.yy",
+    "name":"spr_back",
+    "path":"sprites/spr_back/spr_back.yy",
   },
   "spriteMaskId":null,
   "visible":true,

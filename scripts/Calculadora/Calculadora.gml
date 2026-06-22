@@ -12,8 +12,3 @@ function Personalidade_calc(_personalidade) {
     var personalidade_calculada = global.personalidades_data[irandom_range(0, 9)];  
     return personalidade_calculada;
 }
-
-function Transformador_sprite(_sprite) {
-    var sprite_transformada = asset_get_index(_sprite);
-    return sprite_transformada;
-}
