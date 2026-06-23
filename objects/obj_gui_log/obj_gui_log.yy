@@ -31,7 +31,10 @@
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
   "solid":false,
-  "spriteId":null,
+  "spriteId":{
+    "name":"spr_gui",
+    "path":"sprites/spr_gui/spr_gui.yy",
+  },
   "spriteMaskId":null,
   "visible":true,
 }

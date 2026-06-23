@@ -1,4 +1,4 @@
-function Adicionar_log(_texto)
+function adicionar_log(_texto)
 {
     with (obj_gui_log)
     {

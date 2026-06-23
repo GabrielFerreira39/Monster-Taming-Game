@@ -1,0 +1,38 @@
+[
+  {
+    "oid": "o0",
+    "coisa": "Carta",
+    "valor": 5,
+    "uso": 0,
+    "quanti": 0,
+    "desc": "Um objeto mágico capaz de apaziguar Monstros selvagens.",
+    "sprcoisa": "spr_itemcarta",
+  },
+  {
+    "oid": "o1",
+    "coisa": "Carta Boa",
+    "valor": 15,
+    "uso": 1,
+    "quanti": 0,
+    "desc": "Um objeto mágico capaz de apaziguar Monstros selvagens, possui uma probabilidade maior de funcionar.",
+    "sprcoisa": "spr_itemcartaboa",
+  },
+  {
+    "oid": "o2",
+    "coisa": "Chá",
+    "valor": 10,
+    "uso": 2,
+    "quanti": 0,
+    "desc": "Um chá servido em ⅓ de xícara, refresca a energia de um Monstro quando consumido.",
+    "sprcoisa": "spr_itemcha",
+  },
+  {
+    "oid": "o3",
+    "coisa": "Chá Bom",
+    "valor": 20,
+    "uso": 3,
+    "quanti": 0,
+    "desc": "Um chá servido em ⅓ de xícara, restaura por completo a energia de um Monstro quando consumido.",
+    "sprcoisa": "spr_itemchabom",
+  }
+]

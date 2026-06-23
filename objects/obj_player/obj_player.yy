@@ -1,7 +1,9 @@
 {
   "$GMObject":"",
   "%Name":"obj_player",
-  "eventList":[],
+  "eventList":[
+    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+  ],
   "managed":true,
   "name":"obj_player",
   "overriddenProperties":[],
@@ -27,10 +29,7 @@
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
   "solid":false,
-  "spriteId":{
-    "name":"spr_alice_def",
-    "path":"sprites/spr_alice_def/spr_alice_def.yy",
-  },
+  "spriteId":null,
   "spriteMaskId":null,
   "visible":true,
 }
