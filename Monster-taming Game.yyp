@@ -2,7 +2,7 @@
   "$GMProject":"v1",
   "%Name":"Monster-taming Game",
   "AudioGroups":[
-    {"$GMAudioGroup":"v1","%Name":"audiogroup_default","exportDir":"","name":"audiogroup_default","resourceType":"GMAudioGroup","resourceVersion":"2.0","targets":-1,},
+    {"$GMAudioGroup":"","%Name":"audiogroup_default","name":"audiogroup_default","resourceType":"GMAudioGroup","resourceVersion":"2.0","targets":-1,},
   ],
   "configs":{
     "children":[],
@@ -15,6 +15,7 @@
     {"$GMFolder":"","%Name":"GUI","folderPath":"folders/Objects/Battle/GUI.yy","name":"GUI","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"Trocar_Criatura","folderPath":"folders/Objects/Battle/Trocar_Criatura.yy","name":"Trocar_Criatura","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"Data","folderPath":"folders/Objects/Data.yy","name":"Data","resourceType":"GMFolder","resourceVersion":"2.0",},
+    {"$GMFolder":"","%Name":"Descanso","folderPath":"folders/Objects/Descanso.yy","name":"Descanso","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"Dia","folderPath":"folders/Objects/Dia.yy","name":"Dia","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"Market","folderPath":"folders/Objects/Market.yy","name":"Market","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"Noite","folderPath":"folders/Objects/Noite.yy","name":"Noite","resourceType":"GMFolder","resourceVersion":"2.0",},
@@ -74,6 +75,8 @@
     {"id":{"name":"obj_itens","path":"objects/obj_itens/obj_itens.yy",},},
     {"id":{"name":"obj_jogar","path":"objects/obj_jogar/obj_jogar.yy",},},
     {"id":{"name":"obj_market_list","path":"objects/obj_market_list/obj_market_list.yy",},},
+    {"id":{"name":"obj_mostrar_party","path":"objects/obj_mostrar_party/obj_mostrar_party.yy",},},
+    {"id":{"name":"obj_mostrar_party2","path":"objects/obj_mostrar_party2/obj_mostrar_party2.yy",},},
     {"id":{"name":"obj_music","path":"objects/obj_music/obj_music.yy",},},
     {"id":{"name":"obj_personalidades","path":"objects/obj_personalidades/obj_personalidades.yy",},},
     {"id":{"name":"obj_player_data","path":"objects/obj_player_data/obj_player_data.yy",},},

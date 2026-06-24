@@ -23,13 +23,28 @@ if (turn) {
         obj_gui_log.log_texto = "Jogador causou " + string(criatura_atual.atk) + " de dano.\nHP do inimigo: " + string(enemy.hp);
 
         turn = false;
-        turn_delay = delay;
+        //turn_delay = delay;
     }
 
     if (obj_botao_catch.clicado) {
         obj_botao_catch.clicado = false;
 
-        obj_gui_log.log_texto = "Catch";
+        var _caught = false;
+
+        if (catch_calc(_caught) == true) {
+            var _party_slot = 0;
+            _party_slot = is_party_empty(_party_slot);
+
+            global.party[_party_slot] = enemy;
+            obj_gui_log.log_texto = "Captura bem-sucedida!"
+            turn = false;
+			turn_delay = delay;
+            room_goto(rm_dia);
+        }
+        
+        else {
+            obj_gui_log.log_texto = "Captura falhou! ";
+        }
 
         turn = false;
         turn_delay = delay;
