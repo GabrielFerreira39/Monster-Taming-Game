@@ -66,7 +66,6 @@
     {"id":{"name":"obj_botao_lutar","path":"objects/obj_botao_lutar/obj_botao_lutar.yy",},},
     {"id":{"name":"obj_card_criatura","path":"objects/obj_card_criatura/obj_card_criatura.yy",},},
     {"id":{"name":"obj_controla_evento","path":"objects/obj_controla_evento/obj_controla_evento.yy",},},
-    {"id":{"name":"obj_controla_evento2","path":"objects/obj_controla_evento2/obj_controla_evento2.yy",},},
     {"id":{"name":"obj_criador_inimigo","path":"objects/obj_criador_inimigo/obj_criador_inimigo.yy",},},
     {"id":{"name":"obj_criaturas_db","path":"objects/obj_criaturas_db/obj_criaturas_db.yy",},},
     {"id":{"name":"obj_dorothy","path":"objects/obj_dorothy/obj_dorothy.yy",},},

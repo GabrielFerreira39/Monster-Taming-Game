@@ -10,8 +10,8 @@ if (global.starting = true) {
 	sprite = transformador_sprite(coletor_sprite(id_atual))
 	
     var criatura1 = new Criatura(cid, nome, genero, personalidade, hp, atk, sprite);
-    
-	global.party = [criatura1, undefined, undefined];
+
+	global.party = [criatura1, undefined];
     global.tijolo = 10;
 	global.starting = false;
 }

@@ -1,3 +1,2 @@
-var criatura2 = global.party[1]
 var draw_now = false
-alarm[0] = 2
+alarm[0] = 1

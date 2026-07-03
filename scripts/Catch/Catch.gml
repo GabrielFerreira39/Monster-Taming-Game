@@ -16,7 +16,7 @@ function is_party_empty(_party_slot) {
         }
 
     }
-    return obj_gui_log.log_texto = "party lotada";
+    return 2;
 }
 
 

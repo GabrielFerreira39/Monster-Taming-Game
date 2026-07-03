@@ -3,4 +3,3 @@ alarm[0] = 1
 battle = false
 alarm[1] = 2
 stats = false
-//alarm[2] = 3

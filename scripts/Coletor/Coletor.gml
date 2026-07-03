@@ -32,35 +32,5 @@ function coletor_sprite(id_atual){
     var _sprite = global.criaturas_data[id_atual].sprite
     return _sprite
 }
-//Itens
-function Coletor_oid(oid_atual){
-    var _oid = global.item_data[oid_atual].oid
-    return _oid
-}
-function Coletor_coisa(oid_atual){
-    var _coisa = global.item_data[oid_atual].coisa
-    return _coisa
-}
-function Coletor_valor(oid_atual){
-    var _valor = global.item_data[oid_atual].valor
-    return _valor
-}
-function Coletor_uso(oid_atual){
-    var _uso = global.item_data[oid_atual].uso
-    return _uso
-}
-function Coletor_quanti(oid_atual){
-    var _quanti = global.item_data[oid_atual].quanti
-    return _quanti
-}
-function Coletor_desc(oid_atual){
-    var _desc = global.item_data[oid_atual].desc
-    return _desc
-}
-function Coletor_sprcoisa(oid_atual){
-    var _sprcoisa = global.item_data[oid_atual].sprcoisa
-    return _sprcoisa
-}
-
 
 

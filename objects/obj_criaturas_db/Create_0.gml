@@ -26,5 +26,4 @@ file_text_close(_file4)
 
 //global.itens_data = json_parse (_json_string4)
 
-
 global.starting = true

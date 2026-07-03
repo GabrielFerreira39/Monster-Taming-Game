@@ -1,18 +1,20 @@
 {
   "$GMObject":"",
-  "%Name":"obj_controla_evento2",
+  "%Name":"obj_gui_dia",
   "eventList":[
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":64,"eventType":8,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
   ],
   "managed":true,
-  "name":"obj_controla_evento2",
+  "name":"obj_gui_dia",
   "overriddenProperties":[],
   "parent":{
-    "name":"Noite",
-    "path":"folders/Objects/Noite.yy",
+    "name":"Dia",
+    "path":"folders/Objects/Dia.yy",
   },
-  "parentObjectId":null,
+  "parentObjectId":{
+    "name":"obj_gui",
+    "path":"objects/obj_gui/obj_gui.yy",
+  },
   "persistent":false,
   "physicsAngularDamping":0.1,
   "physicsDensity":0.5,
