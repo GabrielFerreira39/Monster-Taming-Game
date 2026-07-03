@@ -1,0 +1,1 @@
+//sprite_index = asset_get_index(global.party[1].sprite)

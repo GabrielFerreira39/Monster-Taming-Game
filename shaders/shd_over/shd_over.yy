@@ -1,0 +1,12 @@
+{
+  "$GMShader":"",
+  "%Name":"shd_over",
+  "name":"shd_over",
+  "parent":{
+    "name":"Over",
+    "path":"folders/Objects/Over.yy",
+  },
+  "resourceType":"GMShader",
+  "resourceVersion":"2.0",
+  "type":1,
+}

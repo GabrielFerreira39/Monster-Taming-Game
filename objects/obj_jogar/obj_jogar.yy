@@ -31,8 +31,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"spr_jogar",
-    "path":"sprites/spr_jogar/spr_jogar.yy",
+    "name":"spr_jogar2",
+    "path":"sprites/spr_jogar2/spr_jogar2.yy",
   },
   "spriteMaskId":null,
   "visible":true,

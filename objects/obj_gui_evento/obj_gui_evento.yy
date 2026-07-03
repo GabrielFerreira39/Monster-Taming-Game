@@ -11,10 +11,7 @@
     "name":"Noite",
     "path":"folders/Objects/Noite.yy",
   },
-  "parentObjectId":{
-    "name":"obj_gui",
-    "path":"objects/obj_gui/obj_gui.yy",
-  },
+  "parentObjectId":null,
   "persistent":false,
   "physicsAngularDamping":0.1,
   "physicsDensity":0.5,

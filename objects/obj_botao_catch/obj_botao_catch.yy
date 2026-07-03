@@ -31,8 +31,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"spr_catch",
-    "path":"sprites/spr_catch/spr_catch.yy",
+    "name":"spr_catch1",
+    "path":"sprites/spr_catch1/spr_catch1.yy",
   },
   "spriteMaskId":null,
   "visible":true,
